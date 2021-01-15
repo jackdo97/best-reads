@@ -1,8 +1,4 @@
 ## Overview
-Making a web service and using AJAX to retrieve data
-from it. You will write a PHP service that will generate a variety of data about
-different books depending on the parameters it is sent. You will also write
-JavaScript to make requests to this service and use the responses to update pages on your site.
 
 <p>
   <img src="screenshots/overview-img.png" width="60%" alt="Bestreads booklist view">
